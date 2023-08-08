@@ -1,5 +1,10 @@
 # DejaCode (AVAILABLE SOON ON PLAYSTORE)
 
+An appplication that makes learning programming easy, enjoyable, and perfect for
+beginners. Users can browse lessons (articles) regarding specific topics, sort them by
+category, subject, date of publication, or author. Additionally, users can save their
+favorite lessons to have them around when needed..
+
   - Clean design
 
 ![image](https://github.com/DEJA-1/DejaCode-showcase/assets/83213476/e14d278f-f836-4f70-8882-b1fb3400831e) ![image](https://github.com/DEJA-1/DejaCode-showcase/assets/83213476/ee9dc244-9c4a-4c6c-93af-0741c92fd17f)
